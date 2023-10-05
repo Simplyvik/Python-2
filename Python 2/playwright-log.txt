@@ -1,0 +1,15 @@
+{"level":30,"time":"2023-09-28T12:26:41.865Z","pid":31308,"hostname":"InoLaptop","msg":"Listening on 51457"}
+{"level":30,"time":"2023-09-28T12:26:42.153Z","pid":31308,"hostname":"InoLaptop","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-09-28T12:26:42.999Z","pid":31308,"hostname":"InoLaptop","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-09-28T12:26:43.011Z","pid":31308,"hostname":"InoLaptop","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-09-28T12:26:43.011Z","pid":31308,"hostname":"InoLaptop","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-09-28T12:26:43.025Z","pid":31308,"hostname":"InoLaptop","msg":"Changed active context"}
+{"level":30,"time":"2023-09-28T12:26:43.355Z","pid":31308,"hostname":"InoLaptop","msg":"Video path: undefined"}
+{"level":30,"time":"2023-09-28T12:26:43.355Z","pid":31308,"hostname":"InoLaptop","msg":"Changed active page"}
+{"level":30,"time":"2023-09-28T12:26:43.636Z","pid":31308,"hostname":"InoLaptop","msg":"End of node method newPage"}
+{"level":30,"time":"2023-09-28T12:26:43.646Z","pid":31308,"hostname":"InoLaptop","msg":"Start of node method click"}
+{"level":30,"time":"2023-09-28T12:26:43.646Z","pid":31308,"hostname":"InoLaptop","msg":"Strict mode is enabled, find Locator with .btn.btn-dark in page."}
+{"level":30,"time":"2023-09-28T12:26:43.795Z","pid":31308,"hostname":"InoLaptop","msg":"End of node method click"}
+{"level":30,"time":"2023-09-28T12:26:45.690Z","pid":31308,"hostname":"InoLaptop","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-09-28T12:26:45.704Z","pid":31308,"hostname":"InoLaptop","msg":"Removed page=eafd2573-0ca2-41d9-9041-462969a54f0f from context=c0d5adf1-40d8-437a-8cd9-c261b493990b page stack"}
+{"level":30,"time":"2023-09-28T12:26:46.857Z","pid":31308,"hostname":"InoLaptop","msg":"End of node method closeAllBrowsers"}
